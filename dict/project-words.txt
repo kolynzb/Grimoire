@@ -1,8 +1,4 @@
-abernathyca
-adriaan
-agan
-alexbdebrie
-alexey
+atuhaire
 algoliasearch
 anonymized
 anshul
@@ -118,6 +114,7 @@ globby
 goss
 goyal
 gruntfuggly
+grimoire
 gtag
 hahaha
 hamel
@@ -404,8 +401,6 @@ xclip
 xplorer
 xsoar
 yacop
-yangshun
-yangshunz
 zhou
 zoomable
 zpao
