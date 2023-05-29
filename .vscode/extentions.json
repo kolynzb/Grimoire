@@ -1,0 +1,14 @@
+{
+  "recommendations": [
+    "rust-lang.rust-analyzer",
+    "usernamehw.errorlens",
+    "eamodio.gitlens",
+    "streetsidesoftware.code-spell-checker",
+    "unifiedjs.vscode-mdx",
+    "naumovs.color-highlight",
+    "dsznajder.es7-react-js-snippets",
+    "burkeholland.simple-react-snippets",
+    "OfHumanBondage.react-proptypes-intellisense",
+    "formulahendry.auto-rename-tag"
+  ]
+}
