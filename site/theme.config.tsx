@@ -9,7 +9,7 @@ const config: DocsThemeConfig = {
   chat: {
     link: 'https://discord.com',
   },
-  docsRepositoryBase: 'https://github.com/kolynzb/Grimoire',
+  docsRepositoryBase: 'https://github.com/kolynzb/Grimoire/tree/main/site',
   footer: {
     text: 'Grimoire',
   },
