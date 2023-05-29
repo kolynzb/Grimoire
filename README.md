@@ -1,17 +1,18 @@
 # Grimoire
 
-Grimoire is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
+[Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
 
-
-
+<a href="https://gri-moire.vercel.app/">
 <center>
-<img src="" alt="Grimore downloader logo" width="200" align="center" />
+<img src="" alt="Grimoire downloader logo" width="200" align="center" />
 </center>
+</a>
 
 > ⚠️ **DISCLAIMER**: Project Still under construction
 
 ## Screenshots
-![Grimoire Screenshot](/path/to/screenshot.png)
+
+[![Grimoire Screenshot](/path/to/screenshot.png)](https://gri-moire.vercel.app/)
 
 ## Features
 
@@ -28,5 +29,4 @@ Grimoire is a powerful and intuitive ERD (Entity-Relationship Diagram) software 
 
 Grimoire also offers an innovative AI-powered feature that generates initial database schemas based on natural language conversations. Users can interact with a chat interface to describe their data requirements, and the AI system intelligently generates a structured schema, which users can review and customize.
 
-## Installation
 
