@@ -1,22 +1,11 @@
 {
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "rust-analyzer.checkOnSave.enable": true,
   "cSpell.words": [
-    "allowfullscreen",
     "Atuhaire",
-    "autoplay",
     "Benda",
-    "clsx",
-    "iframe",
-    "isize",
-    "kolynz",
-    "lightgallery",
-    "println",
-    "Rustacean",
-    "Rustaceans",
-    "Rustify",
-    "struct",
-    "structs",
-    "svgs",
-    "typecheck",
-    "usize"
   ]
 }
