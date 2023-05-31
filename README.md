@@ -1,12 +1,12 @@
 # Grimoire
 
-[Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
-
 <a href="https://gri-moire.vercel.app/">
 <center>
-<img src="./assets/logo.png" alt="Grimoire downloader logo" width="200" align="center" />
+<img src="./assets/banner.png" alt="Grimoire downloader logo"  align="center" />
 </center>
 </a>
+
+[Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
 
 > ⚠️ **DISCLAIMER**: Project Still under construction
 
@@ -42,4 +42,11 @@ Grimoire also offers an innovative AI-powered feature that generates initial dat
 - Tauri: Tauri is used to create cross-platform desktop applications for Grimoire, ensuring a consistent user experience across different operating systems.
 - Nextra: Nextra, a Markdown-based framework, is employed for Grimoire's documentation, allowing easy creation and customization of informative and user-friendly documentation.
 - [Figma](https://www.figma.com/file/5IF4WStPtqjOAeRJaraB4M/Grimoire?type=design&node-id=1%3A2444&t=F5TEelkDC4Zq2Obp-1): UI/UX Design
+- [Brand Guidelines & Logos]()
 - Turbo Repo : For our monorepo
+
+<a href="https://gri-moire.vercel.app/">
+<center>
+<img src="./assets/logo.png" alt="Grimoire downloader logo" width="200" align="center" />
+</center>
+</a>
