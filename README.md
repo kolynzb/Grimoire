@@ -4,7 +4,7 @@
 
 <a href="https://gri-moire.vercel.app/">
 <center>
-<img src="" alt="Grimoire downloader logo" width="200" align="center" />
+<img src="./assets/logo.png" alt="Grimoire downloader logo" width="200" align="center" />
 </center>
 </a>
 
