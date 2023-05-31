@@ -37,6 +37,7 @@ cdabcdab
 cdpath
 cena
 changefreq
+chakra
 chedeau
 cheng
 clément
@@ -203,6 +204,7 @@ navigations
 navlink
 netrc
 nextra
+nextjs
 ngryman
 nisarag
 noflash
@@ -313,12 +315,11 @@ shiki
 shiki
 showinfo
 sida
+signup
 simen
-slorber
 sluggified
 sluggifies
 sluggify
-solana
 solana
 spâce
 stackblitz
@@ -348,6 +349,7 @@ swizzlable
 teik
 templating
 thanos
+turborepo
 therox
 toolset
 toplevel
