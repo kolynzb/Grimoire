@@ -8,7 +8,7 @@ export default {
     {
       id: 'oss',
       title: 'Open Source',
-      description: 'Basic compoents, perfect to get started.',
+      description: 'Basic components, perfect to get started.',
       price: 'Free',
       features: [
         {
@@ -57,7 +57,7 @@ export default {
           title: 'Multiple themes',
         },
         {
-          title: 'Next.js and Electron boilerplates',
+          title: 'Next.js and Electron boiler-plates',
         },
         {
           title: 'Private discord community',

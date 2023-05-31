@@ -1,30 +1,33 @@
-import * as React from "react";
-import type { NextPage } from "next";
-import Image from "next/image";
 import {
-  Container,
   Box,
-  Stack,
-  HStack,
   ButtonGroup,
-  Button,
-  Icon,
-  Heading,
-  Text,
-  Wrap,
-  Tag,
-  useClipboard,
-  IconButton,
-  VStack,
+  Container,
   Flex,
+  HStack,
+  Heading,
+  Icon,
+  IconButton,
+  Stack,
+  Tag,
+  Text,
+  VStack,
+  Wrap,
+  useClipboard,
 } from "@chakra-ui/react";
 import { SEO } from "components/seo/seo";
+import type { NextPage } from "next";
+import Image from "next/image";
+import * as React from "react";
 
-import { FallInPlace } from "components/motion/fall-in-place";
+import { Br, Link } from "@saas-ui/react";
+import { Faq } from "components/faq";
+import { Features } from "components/features";
+import { BackgroundGradient } from "components/gradients/background-gradient";
 import { Hero } from "components/hero";
-import { Link, Br } from "@saas-ui/react";
+import { ChakraLogo, NextjsLogo } from "components/logos";
+import { FallInPlace } from "components/motion/fall-in-place";
+import { Pricing } from "components/pricing/pricing";
 import { Em } from "components/typography";
-import { NextjsLogo, ChakraLogo } from "components/logos";
 import {
   FiArrowRight,
   FiBox,
@@ -43,17 +46,13 @@ import {
   FiTrendingUp,
   FiUserPlus,
 } from "react-icons/fi";
-import { Features } from "components/features";
-import { BackgroundGradient } from "components/gradients/background-gradient";
-import { Faq } from "components/faq";
-import { Pricing } from "components/pricing/pricing";
 
 import { ButtonLink } from "components/button-link/button-link";
 import { Testimonial, Testimonials } from "components/testimonials";
 
 import faq from "data/faq";
-import testimonials from "data/testimonials";
 import pricing from "data/pricing";
+import testimonials from "data/testimonials";
 
 import {
   Highlights,
@@ -65,8 +64,8 @@ const Home: NextPage = () => {
   return (
     <Box>
       <SEO
-        title="Saas UI Landingspage"
-        description="Free SaaS landingspage starter kit"
+        title="Grimoire Landing page"
+        description="Grimoire powerful and intuitive ERD (Entity-Relationship Diagram) software "
       />
       <Box>
         <HeroSection />
@@ -264,7 +263,7 @@ const HighlightsSection = () => {
         </Text>
       </HighlightsItem>
       <HighlightsTestimonialItem
-        name="Renata Alink"
+        name="Atuhaire Chloe"
         description="Founder"
         avatar="/static/images/avatar.jpg"
         gradient={["pink.200", "purple.500"]}
@@ -334,7 +333,7 @@ const FeaturesSection = () => {
       }
       description={
         <>
-          Saas UI Pro includes everything you need to build modern frontends.
+          Saas UI Pro includes everything you need to build modern front-ends.
           <Br />
           Use it as a template for your next product or foundation for your
           design system.
@@ -348,11 +347,11 @@ const FeaturesSection = () => {
           title: "Components.",
           icon: FiBox,
           description:
-            "All premium components are available on a private NPM registery, no more copy pasting and always up-to-date.",
+            "All premium components are available on a private NPM registry, no more copy pasting and always up-to-date.",
           variant: "inline",
         },
         {
-          title: "Starterkits.",
+          title: "Starter-kits.",
           icon: FiLock,
           description:
             "Example apps in Next.JS, Electron. Including authentication, billing, example pages, everything you need to get started FAST.",
@@ -376,11 +375,11 @@ const FeaturesSection = () => {
           title: "Feature flags.",
           icon: FiFlag,
           description:
-            "Implement feature toggles for your billing plans with easy to use hooks. Connect Flagsmith, or other remote config services once you're ready.",
+            "Implement feature toggles for your billing plans with easy to use hooks. Connect Flag smith, or other remote config services once you're ready.",
           variant: "inline",
         },
         {
-          title: "Upselling.",
+          title: "Up-selling.",
           icon: FiTrendingUp,
           description:
             "Components and hooks for upgrade flows designed to make upgrading inside your app frictionless.",
@@ -390,14 +389,14 @@ const FeaturesSection = () => {
           title: "Themes.",
           icon: FiToggleLeft,
           description:
-            "Includes multiple themes with darkmode support, always have the perfect starting point for your next project.",
+            "Includes multiple themes with dark-mode support, always have the perfect starting point for your next project.",
           variant: "inline",
         },
         {
           title: "Generators.",
           icon: FiTerminal,
           description:
-            "Extend your design system while maintaininig code quality and consistency with built-in generators.",
+            "Extend your design system while maintaining code quality and consistency with built-in generators.",
           variant: "inline",
         },
         {

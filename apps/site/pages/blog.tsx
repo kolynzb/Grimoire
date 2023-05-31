@@ -11,10 +11,10 @@ const Blog: NextPage = ({ posts }: any) => {
   return (
     <div className="mx-auto max-w-2xl py-16 text-center">
       <Head>
-        <title>Contentlayer Blog Example</title>
+        <title>Grimoire Blog </title>
       </Head>
 
-      <h1 className="mb-8 text-3xl font-bold">Contentlayer Blog Example</h1>
+      <h1 className="mb-8 text-3xl font-bold">Grimoire Blog </h1>
 
       {posts.map((post, idx) => (
         <PostCard key={idx} {...post} />

@@ -1,11 +1,11 @@
 export default {
-  title: 'Loved by tech people',
+  title: "Loved by tech people",
   items: [
     {
-      name: 'Eelco Wiersma',
-      description: 'Founder Saas UI',
+      name: "Atuhaire Collins",
+      description: "Founder Saas UI",
       avatar:
-        'https://pbs.twimg.com/profile_images/1470742164024008706/k-eXHtu0_normal.jpg',
+        "https://pbs.twimg.com/profile_images/1470742164024008706/k-eXHtu0_normal.jpg",
       children: (
         <>
           “With SaaS UI I am able to produce high quality dashboard apps and
@@ -15,9 +15,9 @@ export default {
       ),
     },
     {
-      name: 'Caroline Yahaya',
-      description: 'Fullstack Developer',
-      avatar: '/static/images/avatar2.jpg',
+      name: "Matthew Luke",
+      description: "Fullstack Developer",
+      avatar: "/static/images/avatar2.jpg",
       children: (
         <>
           “Saas UI allows me to build beautiful and functional UI super fast.
@@ -27,9 +27,9 @@ export default {
       ),
     },
     {
-      name: 'Alberto Vazquez',
-      description: 'Frontend Engineer',
-      avatar: '/static/images/avatar3.jpg',
+      name: "Alberto Vazquez",
+      description: "Frontend Engineer",
+      avatar: "/static/images/avatar3.jpg",
       children: (
         <>
           “Saas UI gave us a perfect starting point for our project, having the
@@ -39,4 +39,4 @@ export default {
       ),
     },
   ],
-}
+};
