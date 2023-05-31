@@ -1,0 +1,41 @@
+{
+  "version": "0.2",
+  "gitignoreRoot": ".",
+  "useGitignore": true,
+  "dictionaries": [
+    "css",
+    "html",
+    "fonts",
+    "typescript",
+    "rust",
+    "softwareTerms",
+    "companies",
+    "lorem-ipsum",
+    "project-words"
+  ],
+  "dictionaryDefinitions": [
+    {
+      "name": "project-words",
+      "path": "./dict/project-words.txt",
+      "noSuggest": true
+    }
+  ],
+  "ignorePaths": [
+    "CHANGELOG.md",
+    "packages/docusaurus-theme-translations/locales",
+    "package.json",
+    "yarn.lock",
+    "project-words.txt",
+    "__snapshots__",
+    "site/src/data/users.tsx",
+    "site/src/data/tweets.tsx",
+    "site/docusaurus.config.localized.json",
+    "*.xyz",
+    "*.docx",
+    "*.gitignore",
+    "versioned_docs",
+    "*.min.*",
+    "jest/vendor"
+  ],
+  "ignoreRegExpList": ["Email", "Urls", "#[\\w-]*"]
+}

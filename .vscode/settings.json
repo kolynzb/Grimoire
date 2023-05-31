@@ -1,0 +1,11 @@
+{
+  "editor.formatOnSave": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": true
+  },
+  "rust-analyzer.checkOnSave.enable": true,
+  "cSpell.words": [
+    "Atuhaire",
+    "Benda",
+  ]
+}
