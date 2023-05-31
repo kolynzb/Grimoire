@@ -8,8 +8,8 @@ import { Logo } from './logo'
 const siteConfig = {
   logo: Logo,
   seo: {
-    title: 'Saas UI',
-    description: 'The React component library for startups',
+    title: 'Grimoire',
+    description: 'Powerful and intuitive ERD (Entity-Relationship Diagram) software ',
   } as NextSeoProps,
   termsUrl: '#',
   privacyUrl: '#',
@@ -42,26 +42,26 @@ const siteConfig = {
     copyright: (
       <>
         Built by{' '}
-        <Link href="https://twitter.com/Pagebakers">Eelco Wiersma</Link>
+        <Link href="https://twitter.com/kolynz_b">Kolynzb</Link>
       </>
     ),
     links: [
       {
-        href: 'mailto:hello@saas-ui.dev',
+        href: 'mailto:collinsbenda360@gmail.com',
         label: 'Contact',
       },
       {
-        href: 'https://twitter.com/saas_js',
+        href: 'https://twitter.com/kolynz_b',
         label: <FaTwitter size="14" />,
       },
       {
-        href: 'https://github.com/saas-js/saas-ui',
+        href: 'https://github.com/kolynzb/Grimoire/',
         label: <FaGithub size="14" />,
       },
     ],
   },
   signup: {
-    title: 'Start building with Saas UI',
+    title: 'Start building with Grimoire',
     features: [
       {
         icon: FiCheck,
