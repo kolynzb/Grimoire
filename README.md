@@ -19,12 +19,12 @@
 </p>
 
 <p align="center">
-  <a href="" target="_blank">Website</a> |
+  <a href="https://gri-moire.vercel.app/" target="_blank">Website</a> |
   <a href="">Download</a> |
   <a href="https://grimoire-docs.vercel.app/" target="_blank">Documentation</a>|
   <a href="" target="_blank">Discord</a> |
   <a href="#contributing">Contributing</a> |
-  <a href="" target="_blank">Support Us</a>
+  <a href="https://www.buymeacoffee.com/kolynzb" target="_blank">Support Us</a>
 </p>
 
 > ⚠️ **DISCLAIMER**: Project Still under construction
