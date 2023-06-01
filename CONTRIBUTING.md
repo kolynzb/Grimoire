@@ -11,11 +11,13 @@ The [Open Source Guides](https://opensource.guide/) website has a collection of 
 
 There are many ways to contribute , and many of them do not involve writing any code. Here's a few ideas to get started:
 
-- Simply start using Docusaurus. Go through the [Getting Started]() guide. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](#issues).
-- Look through the [open issues](https://github.com/kolynzb/rust-simplified/issues). Provide workarounds, ask for clarification, or suggest labels. Help [triage issues](#triaging-issues-and-pull-requests).
-- If you find an issue you would like to fix, [open a pull request](#pull-requests). Issues tagged as [_Good first issue_](https://github.com//kolynzb/rust-simplified/labels/Good%20first%20issue) are a good place to get started.
+- Simply start using Grimoire. Go through the [Project Setup]() guide. Does everything work as expected? If not, we're always looking for improvements. Let us know by [opening an issue](#issues).
+
+- Look through the [open issues](https://github.com/kolynzb/Grimoire/issues). Provide workarounds, ask for clarification, or suggest labels. Help [triage issues](#triaging-issues-and-pull-requests).
+
+- If you find an issue you would like to fix, [open a pull request](#pull-requests). Issues tagged as [_Good first issue_](https://github.com/kolynzb/Grimoire/labels/Good%20first%20issue) are a good place to get started.
 - Read through the [docs](). If you find anything that is confusing or can be improved, you can click "Edit this page" at the bottom of most docs, which takes you to the GitHub interface to make and propose changes.
-- Take a look at the [features requested](https://github.com/kolynzb/rust-simplified/labels/feature) by others in the community and consider opening a pull request if you see something you want to work on.
+- Take a look at the [features requested](https://github.com/kolynzb/Grimoire/labels/feature) by others in the community and consider opening a pull request if you see something you want to work on.
 
 ### Join our Whatsapp Group
 
@@ -26,13 +28,13 @@ We have the whatsapp group to discuss all things about rust development.
 One great way you can contribute to the project without writing any code is to help triage issues and pull requests as they come in.
 
 - Ask for more information if you believe the issue does not provide all the details required to solve it.
-- Suggest [labels](https://github.com/kolynzb/rust-simplified/labels) that can help categorize issues.
+- Suggest [labels](https://github.com/kolynzb/Grimoire/labels) that can help categorize issues.
 - Flag issues that are stale or that should be closed.
 - Ask for test plans and review code.
 
 ## Our Development Process
 
-We use [GitHub](https://github.com/kolynzb/rust-simplified) as its source of truth. The core team will be working directly there. All changes will be public from the beginning.
+We use [GitHub](https://github.com/kolynzb/Grimoire/) as its source of truth. The core team will be working directly there. All changes will be public from the beginning.
 
 All pull requests will be checked by the continuous integration system, GitHub actions. There are unit tests, end-to-end tests, performance tests, style tests, and much more.
 
@@ -40,11 +42,13 @@ All pull requests will be checked by the continuous integration system, GitHub a
 
 We have one primary branch `main` and we use feature branches with deploy previews to deliver new features with pull requests.
 
+- [How to use feature branching]()
+
 ## Issues
 
 ### Bugs
 
-We use [GitHub Issues](https://github.com/kolynzb/rust-simplified/issues) for our public bugs. If you would like to report a problem, take a look around and see if someone already opened an issue about it. If you are certain this is a new, unreported bug, you can submit a bug report.
+We use [GitHub Issues](https://github.com/kolynzb/Grimoire/issues) for our public bugs. If you would like to report a problem, take a look around and see if someone already opened an issue about it. If you are certain this is a new, unreported bug, you can submit a bug report.
 
 - **One issue, one bug:** Please report a single bug per issue.
 - **Provide reproduction steps:** List all the steps necessary to reproduce the issue. The person reading your bug report should be able to follow these steps to reproduce your issue with minimal effort.
@@ -107,7 +111,7 @@ Do not get too stressed about PR titles, however. Your PR will be squash-merged 
 
 Example:
 
-```
+```bash
 feat(core): allow overriding of webpack config
 ^--^^----^  ^------------^
 |   |       |
