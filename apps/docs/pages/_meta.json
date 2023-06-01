@@ -1,7 +1,6 @@
 {
   "index": "Introduction",
-  "another": "Another Page",
-  "advanced": "Advanced (A Folder)",
+  "project-setup": "Project Setup & Installation",
   "about": {
     "title": "About",
     "type": "page"
