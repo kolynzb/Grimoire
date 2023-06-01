@@ -38,7 +38,6 @@ examples/**                               linguist-generated
 jest/**                                   linguist-vendored
 admin/**                                  linguist-documentation
 website/**                                linguist-documentation
-packages/create-docusaurus/templates/**   linguist-vendored
 .eslintrc.*                               linguist-vendored
 jest.config.*                             linguist-vendored
 .stylelintrc.*                            linguist-vendored
