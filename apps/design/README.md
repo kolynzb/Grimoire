@@ -1,4 +1,4 @@
-![Cover](/assets/design-banner.png)
+![Cover](./assets/design-banner.png)
 
 # Overview
 
