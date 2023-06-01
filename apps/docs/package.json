@@ -1,7 +1,7 @@
 {
-  "name": "grimoire-site",
+  "name": "grimoire-docs",
   "version": "0.0.1",
-  "description": "Grimoire Site",
+  "description": "Grimoire Project Documentation",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

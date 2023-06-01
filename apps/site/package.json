@@ -1,7 +1,18 @@
 {
-  "name": "saas-ui-nextjs-landing-page",
+  "name": "grimoire-landing-page",
+  "description": "Grimoire Official Landing Page",
   "version": "0.1.0",
   "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kolynzb/Grimoire.git"
+  },
+  "author": "Atuhaire Collins Benda <collinsbenda360@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kolynzb/Grimoire/issues"
+  },
+  "homepage": "https://github.com/kolynzb/Grimoire#readme",
   "scripts": {
     "dev": "next dev",
     "build": "next build",

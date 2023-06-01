@@ -1,5 +1,9 @@
 {
   "private": true,
+  "repository": "https://github.com/kolynzb/Grimoire.git",
+  "author": "kolynzb <collinsbenda360@gmail.com> (https://atuhaire.com)",
+  "license": "MIT",
+  "description": "Grimoire Software ",
   "scripts": {
     "build": "turbo run build",
     "dev": "turbo run dev",
