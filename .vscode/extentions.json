@@ -1,5 +1,13 @@
 {
   "recommendations": [
+		"formulahendry.auto-close-tag",
+		"adam-bender.commit-message-editor",
+		"dbaeumer.vscode-eslint",
+		"yzhang.markdown-all-in-one",
+		"esbenp.prettier-vscode",
+		"jock.svg",
+		"wayou.vscode-todo-highlight",
+		"jeremyljackson.vs-docblock",
     "rust-lang.rust-analyzer",
     "usernamehw.errorlens",
     "eamodio.gitlens",
