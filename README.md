@@ -21,7 +21,7 @@
 <p align="center">
   <a href="" target="_blank">Website</a> |
   <a href="">Download</a> |
-  <a href="" target="_blank">Documentation</a>|
+  <a href="https://grimoire-docs.vercel.app/" target="_blank">Documentation</a>|
   <a href="" target="_blank">Discord</a> |
   <a href="#contributing">Contributing</a> |
   <a href="" target="_blank">Support Us</a>
@@ -47,11 +47,11 @@
 - [x] lorem ipsum 🐤.
 - [ ] **AI-Generated Schemas**: Grimoire also offers an innovative AI-powered feature that generates initial database schemas based on natural language conversations. Users can interact with a chat interface to describe their data requirements, and the AI system intelligently generates a structured schema, which users can review and customize.
 
-[Visit Our Documentation](https://gri-moire.vercel.app/)
+[Visit Our Documentation](https://grimoire-docs.vercel.app/)
 
 ## Contributing
 
-As an Open Source application, Grimoire always welcomes contributions from the community. **You do not need to know how to write code to help!** A full overview over all the areas where you can help can be found in our [contributing guide](./CONTRIBUTING.md) or [docs](https://gri-moire.vercel.app/). Here, we introduce you to the two biggest areas where we welcome help: translations and contributing code.
+As an Open Source application, Grimoire always welcomes contributions from the community. **You do not need to know how to write code to help!** A full overview over all the areas where you can help can be found in our [contributing guide](./CONTRIBUTING.md) or [docs](https://grimoire-docs.vercel.app/). Here, we introduce you to the two biggest areas where we welcome help: translations and contributing code.
 
 ## License
 
