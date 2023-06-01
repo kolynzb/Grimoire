@@ -1,18 +1,24 @@
 # Grimoire
 
 <a href="https://gri-moire.vercel.app/">
-<center>
-<img src="./assets/banner.png" alt="Grimoire downloader logo"  align="center" />
-</center>
+<h1 align="center" >
+<img src="./assets/banner.png" alt="Grimoire downloader logo"  />
+<br/>
+Grimoire [<em>set.ler</em>]
+</h1>
 </a>
 
-[Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
+<p align="center" >
+<strong>An ERD Software for the 21<sup>st</sup> century</strong>
+</p>
 
 > ⚠️ **DISCLAIMER**: Project Still under construction
 
-## Screenshots
+[Visit Our Website]()
 
 [![Grimoire Screenshot](/path/to/screenshot.png)](https://gri-moire.vercel.app/)
+
+[Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
 
 ## Features
 
@@ -26,8 +32,10 @@
 - [x] lorem ipsum 🐤.
 - [ ] **AI-Generated Schemas**: Grimoire also offers an innovative AI-powered feature that generates initial database schemas based on natural language conversations. Users can interact with a chat interface to describe their data requirements, and the AI system intelligently generates a structured schema, which users can review and customize.
 
+<h1 align="center" >
 <a href="https://gri-moire.vercel.app/">
-<center>
-<img src="./assets/logo.png" alt="Grimoire downloader logo" width="200" align="center" />
-</center>
+<img src="./assets/logo.png" alt="Grimoire downloader logo" width="200" />
 </a>
+</h1>
+
+<!-- use zetlr docs -->
