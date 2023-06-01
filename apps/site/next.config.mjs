@@ -1,19 +1,20 @@
-import { withContentlayer } from 'next-contentlayer'
+import { withContentlayer } from "next-contentlayer";
 
 /** @type {import('next').NextConfig} */
 const nextConfig = {
   reactStrictMode: true,
+  transpilePackages: ["ui"],
   webpack(config) {
     config.module.rules.push({
       test: /\.svg$/,
       use: [
         {
-          loader: '@svgr/webpack',
+          loader: "@svgr/webpack",
           options: {
             svgoConfig: {
               plugins: [
                 {
-                  name: 'removeViewBox',
+                  name: "removeViewBox",
                   active: false,
                 },
               ],
@@ -21,9 +22,9 @@ const nextConfig = {
           },
         },
       ],
-    })
-    return config
+    });
+    return config;
   },
-}
+};
 
-export default withContentlayer(nextConfig)
+export default withContentlayer(nextConfig);
