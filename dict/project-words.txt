@@ -47,6 +47,7 @@ codeql
 codesandbox
 codespaces
 commonmark
+contentlayer
 contravariance
 corejs
 crawlable
