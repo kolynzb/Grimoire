@@ -157,6 +157,7 @@ keyscan
 keytar
 kinsta
 knapen
+kolynz
 koyeb
 kubernetes
 lamana
