@@ -1,69 +1,25 @@
-# Saas UI - Next.js - landing page.
+# Grimoire - landing page.
 
-This is a free Next.js landing page template based on https://saas-ui.dev.
-Feel free to submit any feature requests. If you use this template please share what you've built [on Twitter](https://twitter.com/saas_js) 🚀.
+![](/assets/banner.png)
 
-**[View demo](https://saas-ui-nextjs-landing-page.netlify.app/)**
+- Welcome to the grimoire landing page sub-repository
+
+<a  style="opacity:0.7; background:#3B3285; border-radius:5px; padding:3px 10px;  color:white; border:solid #2A0A6D  2px; margin-top:30px; margin-bottom:30px;" href="https://gri-moire.vercel.app/" align="center">
+View Demo
+</a>
 
 ## Tech
 
-- Next.js
 - Chakra UI
-- Saas UI
-- Contentlayer
 - Typescript
+- [Saas UI ](https://saas-ui.dev/docs/introduction).
+- [Next.js ](https://nextjs.org/learn) 
+- [React]()
+- [typescript]()
+- Contentlayer
 
-## Features
-
-- Feature blocks
-- Testimonials
-- Pricing tables
-- Log in and Sign up pages
-- FAQ
-
-## In progress
-
-- [ ] Supabase Auth
-- [ ] Waitlist sign-up with GetRevue
-- [ ] Blog (Contentlayer)
-- [ ] Docs
-
-## Getting Started
-
-First, clone this repo and run `pnpm i`
-
-To start the app run:
-
-```bash
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
-
-## Configuration
-
-Configuration files to edit basic site information, add testimonials, faq and pricing table can be found in `/data`.
-
-## Learn More
-
-Find out more about Saas UI.
-
-- [Saas UI Documentation](https://saas-ui.dev/docs/introduction).
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Contribution
+- Go through contribution guidelines in the [docs](https://grimoire-docs.vercel.app/contribute/guidelines) or the [repo](/CONTRIBUTING.md)
 
 ## License
 
