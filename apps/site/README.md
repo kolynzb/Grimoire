@@ -10,13 +10,12 @@ View Demo
 
 ## Tech
 
-- Chakra UI
-- Typescript
 - [Saas UI ](https://saas-ui.dev/docs/introduction).
+- Chakra UI
 - [Next.js ](https://nextjs.org/learn) 
 - [React]()
-- [typescript]()
-- Contentlayer
+- [Typescript]()
+- [Contentlayer](https://www.contentlayer.dev/)
 
 ## Contribution
 - Go through contribution guidelines in the [docs](https://grimoire-docs.vercel.app/contribute/guidelines) or the [repo](/CONTRIBUTING.md)
