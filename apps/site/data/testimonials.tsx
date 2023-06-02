@@ -3,12 +3,12 @@ export default {
   items: [
     {
       name: "Atuhaire Collins",
-      description: "Founder Saas UI",
+      description: "Founder ",
       avatar:
         "https://pbs.twimg.com/profile_images/1470742164024008706/k-eXHtu0_normal.jpg",
       children: (
         <>
-          “With SaaS UI I am able to produce high quality dashboard apps and
+          “With Grimoire I am able to produce high quality db diagrams and
           internal tools without a lot of design skills. The ROI really is
           amazing.”
         </>
@@ -20,8 +20,8 @@ export default {
       avatar: "/static/images/avatar2.jpg",
       children: (
         <>
-          “Saas UI allows me to build beautiful and functional UI super fast.
-          The components are very well thought out and the Next.js starter kit
+          “Grimoire allows me to build beautiful and functional diagram super fast.
+          Its very well thought out and the  starter kit
           saved me at least 100 hours of work.”
         </>
       ),
@@ -32,9 +32,7 @@ export default {
       avatar: "/static/images/avatar3.jpg",
       children: (
         <>
-          “Saas UI gave us a perfect starting point for our project, having the
-          storybooks already set up with beautifully crafted components and
-          fully mocked pages was a treat.”
+          “Grimoire gave us a perfect starting point for our project, having already set up with beautifully crafted database diagram templates.”
         </>
       ),
     },
