@@ -29,7 +29,15 @@
 
 > ⚠️ **DISCLAIMER**: Project Still under construction
 
-[![Grimoire Screenshot](/path/to/screenshot.png)](https://gri-moire.vercel.app/)
+
+<a  style="position:relative; display:flex; align-items:center;justify-content:center;" href="https://gri-moire.vercel.app/" align="center">
+<p style=" position: absolute; 
+  background:transparent; border-radius:10px; padding:0;
+ backdrop-filter: blur(40px); width:100%; height:100%; 
+z-index:0; "> 
+</p> 
+  <img style="z-index:-100; position: relative;  " src="./apps/site/public/static/screenshots/list.png" alt="Grimoire screenshot" />
+</a>
 
 [Grimoire](https://gri-moire.vercel.app/) is a powerful and intuitive ERD (Entity-Relationship Diagram) software designed to simplify the process of creating, managing, and visualizing database schemas. With its user-friendly interface and comprehensive feature set, Grimoire empowers developers, data analysts, and database administrators to efficiently design and communicate complex data structures.
 
