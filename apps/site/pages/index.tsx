@@ -96,15 +96,15 @@ const HeroSection: React.FC = () => {
             px="0"
             title={
               <FallInPlace>
-                Build beautiful
+                Design beautiful
                 <Br /> software faster
               </FallInPlace>
             }
             description={
               <FallInPlace delay={0.4} fontWeight="medium">
-                Saas UI is a <Em>React component library</Em>
+                Grimoire is a <Em>design software</Em>
                 <Br /> that doesn&apos;t get in your way and helps you <Br />{" "}
-                build intuitive SaaS products with speed.
+                build intuitive Entity Relation Diagrams with ease.
               </FallInPlace>
             }
           >
@@ -469,8 +469,8 @@ export async function getStaticProps() {
       announcement: {
         title: "Support us by becoming a stargazer! 🚀 ",
         description:
-          '<img src="https://img.shields.io/github/stars/saas-js/saas-ui.svg?style=social&label=Star" />',
-        href: "https://github.com/saas-js/saas-ui",
+          '<img src="https://img.shields.io/github/stars/kolynzb/Grimoire.svg?style=social&label=Star" />',
+        href: "https://github.com/kolynzb/Grimoire",
         action: false,
       },
     },
