@@ -16,7 +16,7 @@
   "dictionaryDefinitions": [
     {
       "name": "project-words",
-      "path": "./dict/project-words.txt",
+      "path": "./library/project-words.txt",
       "noSuggest": true
     }
   ],
@@ -24,7 +24,7 @@
     "CHANGELOG.md",
     "*package.json",
     "*yarn.lock",
-    "dict/project-words.txt",
+    "library/project-words.txt",
     "__snapshots__",
     "site/src/data/users.tsx",
     "site/src/data/tweets.tsx",
