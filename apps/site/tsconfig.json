@@ -2,6 +2,7 @@
   "extends": "tsconfig/nextjs.json",
   "compilerOptions": {
     "plugins": [{ "name": "next" }],
+    "baseUrl":".",
     "paths": {
       "contentlayer/generated": ["./.contentlayer/generated"],
       "data/*": ["./data/*"],
