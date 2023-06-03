@@ -29,7 +29,7 @@ pnpm i
 ## VSCode Extension Recommendations
 
 This repository makes use of Visual Studio Code's [recommended extensions feature](https://go.microsoft.com/fwlink/?LinkId=827846). This means: If you use VS Code and open the repository for the first time, VS Code will tell you that the repository recommends to install a handful of extensions. These extensions are recommended if you work with Grimoire and will make contributing much easier. The recommendations are specified in the file `.vscode/extensions.json`.
-{/* 
+{/*
 Since installing extensions is sometimes a matter of taste, we have added short descriptions for each recommended extension within that file to explain why we recommend it. This way you can make your own decision whether or not you want to install any of these extensions (for example, the SVG extension is not necessary if you do not work with the SVG files provided in the repository). */}
 
 If you choose not to install all of the recommended extensions at once (which we recommend), VS Code will show you the recommendations in the extensions sidebar so you can first decide which of the ones you'd like to install and then manually install those you'd like to have.
@@ -49,13 +49,13 @@ pnpm dev
 ```bash
 .
 ├── .github     # Github specific settings
-├── .vscode     # vscode settinds
-├── dict        # cspell dictionaries
-├── apps        # Contains applications or subrepos
-│   ├── docs    # Contains grimoire documentatio
-│   ├── site    # Contains site landing page
-│   └── design  # Contains design related info
-├── assets      # Contains assets
+├── .vscode     # Vscode settings, extentions and launch recommendations
+├── library     # Custom .cspell extention dictionaries
+├── apps        # Contains applications or sub-repositories
+│   ├── docs    # Contains grimoire project and technical documentation
+│   ├── site    # Contains grimoire landing page
+│   └── design  # Contains design related info (design systems, user-interface, user-experience, brand guidelines, )
+├── assets      # Contains assets (like images)
 └── packages    # shared packages across projects
 ```
 
@@ -69,6 +69,6 @@ In order to provide code, you should have basic familiarity with the following t
 - [Nest js](https://docs.nestjs.com/)
   {/* * [CodeMirror 6.x](https://codemirror.net/docs/) */}
 - [ESLint](https://eslint.org/)
-- [Tauri](https://tauri.app/) 
+- [Tauri](https://tauri.app/)
 - [Rust]()
 - [Markdown]() and [Nextra](https://nextra.site/)
