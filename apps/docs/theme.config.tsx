@@ -1,13 +1,16 @@
+import Image from "next/image";
 import { DocsThemeConfig } from "nextra-theme-docs";
 
 const logo = (
   <span>
-    <img
+    <Image
       src="https://github.com/kolynzb/Grimoire/raw/main/assets/logo.png"
       style={{
         height: "40px",
       }}
-      alt=""
+      alt="grimoire"
+      width={40}
+      height={40}
     />
     <p
       style={{
