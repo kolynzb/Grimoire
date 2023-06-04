@@ -1,14 +1,15 @@
-import { NextPage } from 'next'
-import NextLink from 'next/link'
 import { Box, Center, Stack, Text } from '@chakra-ui/react'
-import { Auth, Link } from '@saas-ui/react'
+import { Auth } from "@saas-ui/auth"
+import { Link } from '@saas-ui/react'
 import { Features } from 'components/features'
 import { BackgroundGradient } from 'components/gradients/background-gradient'
 import { Section } from 'components/section'
 import siteConfig from 'data/config'
+import { NextPage } from 'next'
+import NextLink from 'next/link'
 
-import { FaGithub, FaGoogle } from 'react-icons/fa'
 import { PageTransition } from 'components/motion/page-transition'
+import { FaGithub, FaGoogle } from 'react-icons/fa'
 
 const providers = {
   google: {
