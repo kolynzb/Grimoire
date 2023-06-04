@@ -56,6 +56,7 @@ csapo
 cssnano
 csvg
 customizability
+cloudinary
 dabit
 dabit
 daishi
