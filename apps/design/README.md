@@ -10,5 +10,5 @@ Click the "Get a copy" button on this page: [Grimoire Design System | Figma Com
 
 # Contributing
 
-- Send draft Figma file with changes to kolynz_b on Discord or e-mail to jmorabito10@gmail.com
+- Send draft Figma file with changes to `kolynz_b` on Discord or e-mail to `collinsbenda360@gmail.com`.
 - Post issues on [GitHub](https://github.com/kolynzb/Grimoire/) with questions, ideas, requests, etc.
