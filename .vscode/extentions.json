@@ -1,13 +1,13 @@
 {
   "recommendations": [
-		"formulahendry.auto-close-tag",
-		"adam-bender.commit-message-editor",
-		"dbaeumer.vscode-eslint",
-		"yzhang.markdown-all-in-one",
-		"esbenp.prettier-vscode",
-		"jock.svg",
-		"wayou.vscode-todo-highlight",
-		"jeremyljackson.vs-docblock",
+    "formulahendry.auto-close-tag",
+    "adam-bender.commit-message-editor",
+    "dbaeumer.vscode-eslint",
+    "yzhang.markdown-all-in-one",
+    "esbenp.prettier-vscode",
+    "jock.svg",
+    "wayou.vscode-todo-highlight",
+    "jeremyljackson.vs-docblock",
     "rust-lang.rust-analyzer",
     "usernamehw.errorlens",
     "eamodio.gitlens",
@@ -18,6 +18,10 @@
     "burkeholland.simple-react-snippets",
     "OfHumanBondage.react-proptypes-intellisense",
     "formulahendry.auto-rename-tag",
-    "codeSTACKr.superhero-extensions"
+    "codeSTACKr.superhero-extensions",
+    "bradlc.vscode-tailwindcss",
+    "EditorConfig.EditorConfig",
+    "unifiedjs.vscode-mdx",
+    "esbenp.prettier-vscode"
   ]
 }
