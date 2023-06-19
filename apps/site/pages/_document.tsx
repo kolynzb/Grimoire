@@ -26,6 +26,17 @@ export default class Document extends NextDocument {
           />
           <link rel="manifest" href="/static/favicons/manifest.json" />
 
+          <link rel="preconnect" href="https://fonts.googleapis.com" />
+          <link
+            rel="preconnect"
+            href="https://fonts.gstatic.com"
+            crossOrigin=""
+          />
+          <link
+            href="https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;700;800&display=swap"
+            rel="stylesheet"
+          ></link>
+
           <meta name="msapplication-TileColor" content="#da532c"></meta>
           <meta name="theme-color" content="#ffffff"></meta>
         </Head>
