@@ -115,7 +115,7 @@ const HeroSection: React.FC = () => {
 
               <ButtonGroup spacing={4} alignItems="center">
                 <ButtonLink colorScheme="primary" size="lg" href="/signup">
-                  Sign Up
+                  Download
                 </ButtonLink>
                 <ButtonLink
                   size="lg"
