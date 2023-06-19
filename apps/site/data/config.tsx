@@ -1,93 +1,93 @@
-import { Button } from '@chakra-ui/react'
-import { Link } from '@saas-ui/react'
-import { NextSeoProps } from 'next-seo'
-import { FaGithub, FaTwitter } from 'react-icons/fa'
-import { FiCheck } from 'react-icons/fi'
-import { Logo } from './logo'
+import { Link } from "@saas-ui/react";
+import { NextSeoProps } from "next-seo";
+import { FaGithub, FaTwitter } from "react-icons/fa";
+import { FiCheck } from "react-icons/fi";
+// import { Logo } from './logo'
+import { Logo } from "ui";
 
 const siteConfig = {
   logo: Logo,
   seo: {
-    title: 'Grimoire',
-    description: 'Powerful and intuitive ERD (Entity-Relationship Diagram) software ',
+    title: "Grimoire",
+    description:
+      "Powerful and intuitive ERD (Entity-Relationship Diagram) software ",
   } as NextSeoProps,
-  termsUrl: '#',
-  privacyUrl: '#',
+  termsUrl: "#",
+  privacyUrl: "#",
   header: {
     links: [
       {
-        id: 'features',
-        label: 'Features',
+        id: "features",
+        label: "Features",
       },
       {
-        id: 'pricing',
-        label: 'Pricing',
+        id: "pricing",
+        label: "Pricing",
       },
       {
-        id: 'faq',
-        label: 'FAQ',
+        id: "faq",
+        label: "FAQ",
       },
       {
-        label: 'Login',
-        href: '/login',
+        label: "Login",
+        href: "/login",
       },
       {
-        label: 'Sign Up',
-        href: '/signup',
-        variant: 'primary',
+        label: "Sign Up",
+        href: "/signup",
+        variant: "primary",
       },
     ],
   },
   footer: {
     copyright: (
       <>
-        Built by{' '}
-        <Link href="https://twitter.com/kolynz_b">Kolynzb</Link>
+        Built by <Link href="https://twitter.com/kolynz_b">Kolynzb</Link>
       </>
     ),
     links: [
       {
-        href: 'mailto:collinsbenda360@gmail.com',
-        label: 'Contact',
+        href: "mailto:collinsbenda360@gmail.com",
+        label: "Contact",
       },
       {
-        href: 'https://twitter.com/kolynz_b',
+        href: "https://twitter.com/kolynz_b",
         label: <FaTwitter size="14" />,
       },
       {
-        href: 'https://github.com/kolynzb/Grimoire/',
+        href: "https://github.com/kolynzb/Grimoire/",
         label: <FaGithub size="14" />,
       },
     ],
   },
   signup: {
-    title: 'Start building with Grimoire',
+    title: "Start building with Grimoire",
     features: [
       {
         icon: FiCheck,
-        title: 'Accessible',
-        description: 'All components strictly follow WAI-ARIA standards.',
+        title: "Accessible",
+        description: "All components strictly follow WAI-ARIA standards.",
       },
       {
         icon: FiCheck,
-        title: 'Themable',
+        title: "Themable",
         description:
-          'Fully customize all components to your brand with theme support and style props.',
+          "Fully customize all components to your brand with theme support and style props.",
       },
       {
         icon: FiCheck,
-        title: 'Composable',
+        title: "Composable",
         description:
-          'Compose components to fit your needs and mix them together to create new ones.',
+          "Compose components to fit your needs and mix them together to create new ones.",
       },
       {
         icon: FiCheck,
-        title: 'Productive',
+        title: "Productive",
         description:
-          'Designed to reduce boilerplate and fully typed, build your product at speed.',
+          "Designed to reduce boilerplate and fully typed, build your product at speed.",
       },
     ],
   },
-}
+};
 
-export default siteConfig
+export default siteConfig;
