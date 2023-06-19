@@ -2,7 +2,6 @@
 
 This is the index page for the Advanced folder!
 
-
 ```js filename="demo.js" {3} copy
 pnpm i
 ```
@@ -11,14 +10,14 @@ pnpm i
 
 import { useState } from "react";
 
-{/* Import CSS modules */}
-import styles from '../components/counters.module.css'
-
 export const Counter = () => {
   const [count, setCount] = useState(0);
   return (
     <div>
-      <button onClick={() => setCount(count + 1)} className={styles.counter}>
+      <button
+        onClick={() => setCount(count + 1)}
+        className="rounded-md px-2 py-6  border-2  mt-9 border-gray-100"
+      >
         Clicked {count} times
       </button>
     </div>
