@@ -173,14 +173,14 @@ const HeroSection: React.FC = () => {
         pt="20"
         features={[
           {
-            title: "Accessible",
+            title: "Simple",
             icon: FiSmile,
             description: "All components strictly follow WAI-ARIA standards.",
             iconPosition: "left",
             delay: 0.6,
           },
           {
-            title: "Themable",
+            title: "Modern Design",
             icon: FiSliders,
             description:
               "Fully customize all components to your brand with theme support and style props.",
@@ -188,7 +188,7 @@ const HeroSection: React.FC = () => {
             delay: 0.8,
           },
           {
-            title: "Composable",
+            title: "100% Free",
             icon: FiGrid,
             description:
               "Compose components to fit your needs and mix them together to create new ones.",
@@ -240,7 +240,7 @@ const HighlightsSection = () => {
                 yarn add
               </Text>{" "}
               <Text color="cyan.300" display="inline">
-                @saas-ui/react
+                @grimoire/react
               </Text>
             </Box>
             <IconButton
@@ -263,14 +263,14 @@ const HighlightsSection = () => {
         </Text>
       </HighlightsItem>
       <HighlightsTestimonialItem
-        name="Atuhaire Chloe"
+        name="Assimwe Kendra"
         description="Founder"
         avatar="/static/images/avatar.jpg"
         gradient={["pink.200", "purple.500"]}
       >
-        “Saas UI helped us set up a beautiful modern UI in no time. It saved us
-        hundreds of hours in development time and allowed us to focus on
-        business logic for our specific use-case from the start.”
+        “Grimoire helped us set up a beautiful modern database design in no
+        time. It saved us hundreds of hours in development time and allowed us
+        to focus on business logic for our specific use-case from the start.”
       </HighlightsTestimonialItem>
       <HighlightsItem
         colSpan={[1, null, 2]}
@@ -328,15 +328,16 @@ const FeaturesSection = () => {
           as="p"
         >
           Not your standard
-          <Br /> dashboard template.
+          <Br /> E.R.D design software.
         </Heading>
       }
       description={
         <>
-          Saas UI Pro includes everything you need to build modern front-ends.
+          Grimoire includes everything you need to design modern Entity relation
+          diagrams.
           <Br />
-          Use it as a template for your next product or foundation for your
-          design system.
+          Use it to design for your next product or foundation for your database
+          designs.
         </>
       }
       align="left"
@@ -344,14 +345,14 @@ const FeaturesSection = () => {
       iconSize={4}
       features={[
         {
-          title: "Components.",
+          title: "Beautiful.",
           icon: FiBox,
           description:
             "All premium components are available on a private NPM registry, no more copy pasting and always up-to-date.",
           variant: "inline",
         },
         {
-          title: "Starter-kits.",
+          title: "Templates.",
           icon: FiLock,
           description:
             "Example apps in Next.JS, Electron. Including authentication, billing, example pages, everything you need to get started FAST.",
@@ -360,12 +361,17 @@ const FeaturesSection = () => {
         {
           title: "Documentation.",
           icon: FiSearch,
-          description:
-            "Extensively documented, including storybooks, best practices, use-cases and examples.",
+          description: (
+            <>
+              Extensively documented, for those that want to get started with{" "}
+              <Link href="https://grimoire-docs.vercel.app">grimoire docs</Link>{" "}
+              .
+            </>
+          ),
           variant: "inline",
         },
         {
-          title: "Onboarding.",
+          title: "Opensource.",
           icon: FiUserPlus,
           description:
             "Add user onboarding flows, like tours, hints and inline documentation without breaking a sweat.",
@@ -379,7 +385,7 @@ const FeaturesSection = () => {
           variant: "inline",
         },
         {
-          title: "Up-selling.",
+          title: "Plugins.",
           icon: FiTrendingUp,
           description:
             "Components and hooks for upgrade flows designed to make upgrading inside your app frictionless.",
@@ -393,14 +399,14 @@ const FeaturesSection = () => {
           variant: "inline",
         },
         {
-          title: "Generators.",
+          title: "AI Generators.",
           icon: FiTerminal,
           description:
             "Extend your design system while maintaining code quality and consistency with built-in generators.",
           variant: "inline",
         },
         {
-          title: "Monorepo.",
+          title: "Community.",
           icon: FiCode,
           description: (
             <>
