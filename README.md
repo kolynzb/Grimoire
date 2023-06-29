@@ -63,7 +63,7 @@ Visit Our Website
 
 ## Contributing
 
-As an Open Source application, Grimoire always welcomes contributions from the community. **You do not need to know how to write code to help!** A full overview over all the areas where you can help can be found in our [contributing guide](./CONTRIBUTING.md) or [docs](https://grimoire-docs.vercel.app/). Here, we introduce you to the two biggest areas where we welcome help: translations and contributing code.
+As an Open Source application, Grimoire always welcomes contributions from the community. **You do not need to know how to write code to help!** A full overview over all the areas where you can help can be found in our [contributing guide](./.github/CONTRIBUTING.md) or [docs](https://grimoire-docs.vercel.app/). Here, we introduce you to the two biggest areas where we welcome help: translations and contributing code.
 
 <a  style="opacity:0.7; background:#3B3285; border-radius:5px; padding:3px 10px;  color:white; border:solid #2A0A6D 2px; margin-top:30px; margin-bottom:30px;" href="https://grimoire-docs.vercel.app/" align="center">
 Visit Our Documentation
