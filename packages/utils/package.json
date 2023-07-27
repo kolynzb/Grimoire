@@ -1,0 +1,18 @@
+{
+  "name": "utils",
+  "version": "1.0.0",
+  "description": "Utilities To be used across apps",
+  "main": "./index.ts",
+  "types": "./index.ts",
+  "scripts": {
+    "lint": "eslint \"**/*.ts*\""
+  },
+  "author": "kolynzb",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-custom": "workspace:*",
+    "tsconfig": "workspace:*",
+    "typescript": "^4.5.2"
+  }
+}
