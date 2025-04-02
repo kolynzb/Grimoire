@@ -8,3 +8,4 @@
 - [Sonny Trello clone](https://youtu.be/TI2AvfCj5oM)
 - [Tauri turbo repo](https://github.com/ahwelgemoed/mdet-repo/)
 - add the kabi opensource thing nigeria guy.
+- https://www.rustadventure.dev/building-wasm-web-ui-with-rust-and-leptos
